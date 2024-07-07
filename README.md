@@ -21,7 +21,7 @@ A simple racing game built using Pygame. Navigate your car through the blocks wi
 2. Install Pygame:
 
     ```bash
-    pip install pygame
+    sudp pip3 install pygame
     ```
 
 ### Running the Game
